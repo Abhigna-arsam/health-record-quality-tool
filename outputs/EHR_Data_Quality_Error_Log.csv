@@ -1,0 +1,769 @@
+Row_Index,Error_Log
+0,Insulin_Missing (0)
+1,Insulin_Missing (0)
+2,SkinThickness_Missing (0); Insulin_Missing (0)
+3,No Errors
+4,BloodPressure_RangeError (40)
+5,SkinThickness_Missing (0); Insulin_Missing (0)
+6,No Errors
+7,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+8,No Errors
+9,SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BMI_RangeError (0.0)
+10,SkinThickness_Missing (0); Insulin_Missing (0)
+11,SkinThickness_Missing (0); Insulin_Missing (0)
+12,SkinThickness_Missing (0); Insulin_Missing (0)
+13,Row_AnomalyIF (N/A)
+14,No Errors
+15,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+16,No Errors
+17,SkinThickness_Missing (0); Insulin_Missing (0)
+18,BloodPressure_Outlier (30); BloodPressure_RangeError (30)
+19,No Errors
+20,No Errors
+21,SkinThickness_Missing (0); Insulin_Missing (0)
+22,SkinThickness_Missing (0); Insulin_Missing (0)
+23,Insulin_Missing (0)
+24,No Errors
+25,No Errors
+26,SkinThickness_Missing (0); Insulin_Missing (0)
+27,No Errors
+28,No Errors
+29,SkinThickness_Missing (0); Insulin_Missing (0)
+30,Insulin_Missing (0)
+31,No Errors
+32,No Errors
+33,SkinThickness_Missing (0); Insulin_Missing (0)
+34,Insulin_Missing (0)
+35,No Errors
+36,SkinThickness_Missing (0); Insulin_Missing (0)
+37,Insulin_Missing (0)
+38,Insulin_Missing (0)
+39,No Errors
+40,No Errors
+41,SkinThickness_Missing (0); Insulin_Missing (0)
+42,Insulin_Missing (0)
+43,BloodPressure_Outlier (110); Row_AnomalyIF (N/A)
+44,SkinThickness_Missing (0); Insulin_Missing (0)
+45,Insulin_Missing (0)
+46,SkinThickness_Missing (0); Insulin_Missing (0)
+47,Insulin_Missing (0)
+48,Insulin_Missing (0)
+49,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+50,No Errors
+51,No Errors
+52,No Errors
+53,No Errors
+54,No Errors
+55,Insulin_Missing (0)
+56,No Errors
+57,No Errors
+58,SkinThickness_Missing (0); Insulin_Missing (0)
+59,No Errors
+60,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+61,SkinThickness_Missing (0); Insulin_Missing (0)
+62,SkinThickness_Missing (0); Insulin_Missing (0); Glucose_RangeError (44)
+63,No Errors
+64,SkinThickness_Missing (0); Insulin_Missing (0)
+65,Insulin_Missing (0)
+66,Insulin_Missing (0)
+67,SkinThickness_Missing (0); Insulin_Missing (0)
+68,No Errors
+69,No Errors
+70,No Errors
+71,No Errors
+72,SkinThickness_Missing (0); Insulin_Missing (0)
+73,No Errors
+74,Insulin_Missing (0)
+75,Glucose_Missing (0); Insulin_Missing (0); Glucose_Outlier (0); Row_AnomalyIF (N/A); Glucose_RangeError (0); BloodPressure_RangeError (48)
+76,SkinThickness_Missing (0); Insulin_Missing (0); Glucose_RangeError (62)
+77,Insulin_Missing (0)
+78,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+79,Insulin_Missing (0)
+80,Insulin_Missing (0); BloodPressure_RangeError (44)
+81,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+82,No Errors
+83,Insulin_Missing (0)
+84,SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (108)
+85,No Errors
+86,Insulin_Missing (0)
+87,No Errors
+88,No Errors
+89,Insulin_Missing (0)
+90,SkinThickness_Missing (0); Insulin_Missing (0)
+91,No Errors
+92,No Errors
+93,SkinThickness_Missing (0); Insulin_Missing (0)
+94,No Errors
+95,No Errors
+96,Insulin_Missing (0)
+97,BloodPressure_RangeError (48)
+98,No Errors
+99,No Errors
+100,SkinThickness_Missing (0); Insulin_Missing (0)
+101,SkinThickness_Missing (0); Insulin_Missing (0)
+102,SkinThickness_Missing (0); Insulin_Missing (0)
+103,No Errors
+104,SkinThickness_Missing (0); Insulin_Missing (0)
+105,No Errors
+106,SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (122); BloodPressure_RangeError (122)
+107,No Errors
+108,No Errors
+109,No Errors
+110,No Errors
+111,No Errors
+112,No Errors
+113,SkinThickness_Missing (0); Insulin_Missing (0)
+114,No Errors
+115,SkinThickness_Missing (0); Insulin_Missing (0)
+116,SkinThickness_Missing (0); Insulin_Missing (0)
+117,SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_RangeError (48)
+118,Insulin_Missing (0)
+119,No Errors
+120,BMI_Outlier (53.2)
+121,Insulin_Missing (0)
+122,No Errors
+123,SkinThickness_Missing (0); Insulin_Missing (0); Age_Outlier (69)
+124,SkinThickness_Missing (0); Insulin_Missing (0)
+125,BloodPressure_Outlier (30); BMI_Outlier (55.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (30)
+126,No Errors
+127,No Errors
+128,No Errors
+129,SkinThickness_Missing (0); Insulin_Missing (0)
+130,No Errors
+131,SkinThickness_Missing (0); Insulin_Missing (0)
+132,No Errors
+133,Insulin_Missing (0)
+134,No Errors
+135,No Errors
+136,No Errors
+137,No Errors
+138,SkinThickness_Missing (0); Insulin_Missing (0)
+139,No Errors
+140,SkinThickness_Missing (0); Insulin_Missing (0)
+141,Insulin_Missing (0)
+142,No Errors
+143,SkinThickness_Missing (0); Insulin_Missing (0)
+144,No Errors
+145,Insulin_Missing (0); BMI_Missing (0.0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BMI_RangeError (0.0)
+146,Insulin_Missing (0); Glucose_RangeError (57)
+147,No Errors
+148,SkinThickness_Missing (0); Insulin_Missing (0)
+149,Insulin_Missing (0)
+150,No Errors
+151,SkinThickness_Missing (0); Insulin_Missing (0)
+152,No Errors
+153,No Errors
+154,SkinThickness_Missing (0); Insulin_Missing (0)
+155,Insulin_Missing (0)
+156,No Errors
+157,No Errors
+158,No Errors
+159,No Errors
+160,Insulin_Missing (0)
+161,No Errors
+162,No Errors
+163,Insulin_Missing (0)
+164,SkinThickness_Missing (0); Insulin_Missing (0)
+165,No Errors
+166,Insulin_Missing (0)
+167,SkinThickness_Missing (0); Insulin_Missing (0)
+168,SkinThickness_Missing (0); Insulin_Missing (0)
+169,No Errors
+170,SkinThickness_Missing (0); Insulin_Missing (0)
+171,No Errors
+172,BloodPressure_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+173,No Errors
+174,No Errors
+175,No Errors
+176,SkinThickness_Missing (0); Insulin_Missing (0)
+177,BloodPressure_Outlier (110); BMI_Outlier (67.1); Row_AnomalyIF (N/A); BMI_RangeError (67.1)
+178,SkinThickness_Missing (0); Insulin_Missing (0)
+179,SkinThickness_Missing (0); Insulin_Missing (0)
+180,SkinThickness_Missing (0); Insulin_Missing (0)
+181,No Errors
+182,Glucose_Missing (0); Glucose_Outlier (0); Row_AnomalyIF (N/A); Glucose_RangeError (0)
+183,SkinThickness_Missing (0); Insulin_Missing (0)
+184,SkinThickness_Missing (0); Insulin_Missing (0)
+185,Insulin_Missing (0)
+186,No Errors
+187,No Errors
+188,No Errors
+189,No Errors
+190,SkinThickness_Missing (0); Insulin_Missing (0)
+191,No Errors
+192,SkinThickness_Missing (0); Insulin_Missing (0)
+193,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BMI_Outlier (52.3); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+194,Insulin_Missing (0)
+195,No Errors
+196,SkinThickness_Missing (0); Insulin_Missing (0)
+197,No Errors
+198,No Errors
+199,No Errors
+200,Insulin_Missing (0)
+201,SkinThickness_Missing (0); Insulin_Missing (0)
+202,Insulin_Missing (0)
+203,No Errors
+204,No Errors
+205,Insulin_Missing (0)
+206,No Errors
+207,SkinThickness_Missing (0); Insulin_Missing (0)
+208,No Errors
+209,Insulin_Missing (0)
+210,Insulin_Missing (0)
+211,Insulin_Missing (0)
+212,Insulin_Missing (0)
+213,No Errors
+214,No Errors
+215,No Errors
+216,No Errors
+217,No Errors
+218,Insulin_Missing (0)
+219,SkinThickness_Missing (0); Insulin_Missing (0)
+220,No Errors
+221,SkinThickness_Missing (0); Insulin_Missing (0)
+222,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+223,No Errors
+224,No Errors
+225,No Errors
+226,SkinThickness_Missing (0); Insulin_Missing (0)
+227,Insulin_Missing (0)
+228,No Errors
+229,No Errors
+230,SkinThickness_Missing (0); Insulin_Missing (0)
+231,No Errors
+232,No Errors
+233,SkinThickness_Missing (0); Insulin_Missing (0)
+234,No Errors
+235,SkinThickness_Missing (0); Insulin_Missing (0)
+236,No Errors
+237,Insulin_Missing (0)
+238,Insulin_Missing (0)
+239,SkinThickness_Missing (0); Insulin_Missing (0)
+240,Insulin_Missing (0)
+241,No Errors
+242,SkinThickness_Missing (0); Insulin_Missing (0)
+243,No Errors
+244,No Errors
+245,Insulin_Missing (0)
+246,SkinThickness_Missing (0); Insulin_Missing (0)
+247,BMI_Outlier (52.3); Row_AnomalyIF (N/A)
+248,No Errors
+249,Insulin_Missing (0)
+250,SkinThickness_Missing (0); Insulin_Missing (0)
+251,SkinThickness_Missing (0); Insulin_Missing (0)
+252,No Errors
+253,Insulin_Missing (0)
+254,No Errors
+255,Insulin_Missing (0)
+256,Insulin_Missing (0)
+257,Insulin_Missing (0)
+258,Row_AnomalyIF (N/A)
+259,No Errors
+260,No Errors
+261,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+262,Insulin_Missing (0)
+263,Insulin_Missing (0)
+264,SkinThickness_Missing (0); Insulin_Missing (0)
+265,No Errors
+266,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+267,Insulin_Missing (0)
+268,SkinThickness_Missing (0); Insulin_Missing (0)
+269,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+270,Insulin_Missing (0)
+271,No Errors
+272,SkinThickness_Missing (0); Insulin_Missing (0)
+273,No Errors
+274,SkinThickness_Missing (0); Insulin_Missing (0)
+275,No Errors
+276,Insulin_Missing (0)
+277,No Errors
+278,SkinThickness_Missing (0); Insulin_Missing (0)
+279,No Errors
+280,SkinThickness_Missing (0); Insulin_Missing (0)
+281,No Errors
+282,No Errors
+283,SkinThickness_Missing (0); Insulin_Missing (0)
+284,SkinThickness_Missing (0); Insulin_Missing (0)
+285,No Errors
+286,No Errors
+287,No Errors
+288,No Errors
+289,No Errors
+290,No Errors
+291,No Errors
+292,No Errors
+293,BloodPressure_RangeError (48)
+294,SkinThickness_Missing (0); Insulin_Missing (0); Row_AnomalyIF (N/A)
+295,No Errors
+296,No Errors
+297,No Errors
+298,No Errors
+299,SkinThickness_Missing (0); Insulin_Missing (0)
+300,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+301,No Errors
+302,No Errors
+303,SkinThickness_Missing (0); Insulin_Missing (0); BMI_Outlier (52.9); Row_AnomalyIF (N/A)
+304,SkinThickness_Missing (0); Insulin_Missing (0)
+305,No Errors
+306,No Errors
+307,No Errors
+308,No Errors
+309,No Errors
+310,Insulin_Missing (0)
+311,No Errors
+312,No Errors
+313,No Errors
+314,Insulin_Missing (0)
+315,No Errors
+316,No Errors
+317,SkinThickness_Missing (0); Insulin_Missing (0)
+318,No Errors
+319,SkinThickness_Missing (0); Insulin_Missing (0); Row_AnomalyIF (N/A)
+320,No Errors
+321,Insulin_Missing (0)
+322,Insulin_Missing (0)
+323,No Errors
+324,Insulin_Missing (0)
+325,No Errors
+326,No Errors
+327,SkinThickness_Missing (0); Insulin_Missing (0)
+328,No Errors
+329,No Errors
+330,Insulin_Missing (0)
+331,No Errors
+332,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+333,SkinThickness_Missing (0); Insulin_Missing (0)
+334,No Errors
+335,No Errors
+336,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+337,SkinThickness_Missing (0); Insulin_Missing (0)
+338,No Errors
+339,SkinThickness_Missing (0); Insulin_Missing (0)
+340,No Errors
+341,No Errors
+342,Glucose_Missing (0); Insulin_Missing (0); Glucose_Outlier (0); Glucose_RangeError (0)
+343,SkinThickness_Missing (0); Insulin_Missing (0)
+344,SkinThickness_Missing (0); Insulin_Missing (0)
+345,No Errors
+346,BloodPressure_RangeError (46)
+347,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+348,No Errors
+349,Glucose_Missing (0); Insulin_Missing (0); Glucose_Outlier (0); Row_AnomalyIF (N/A); Glucose_RangeError (0)
+350,SkinThickness_Missing (0); Insulin_Missing (0)
+351,SkinThickness_Missing (0); Insulin_Missing (0)
+352,Insulin_Missing (0); Glucose_RangeError (61)
+353,No Errors
+354,SkinThickness_Missing (0); Insulin_Missing (0)
+355,SkinThickness_Missing (0); Insulin_Missing (0)
+356,No Errors
+357,BloodPressure_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+358,No Errors
+359,No Errors
+360,No Errors
+361,SkinThickness_Missing (0); Insulin_Missing (0)
+362,Insulin_Missing (0); BloodPressure_Outlier (108); Row_AnomalyIF (N/A)
+363,SkinThickness_Missing (0); Insulin_Missing (0); Age_Outlier (67)
+364,No Errors
+365,No Errors
+366,SkinThickness_Missing (0); Insulin_Missing (0)
+367,Insulin_Missing (0)
+368,No Errors
+369,No Errors
+370,No Errors
+371,BMI_Missing (0.0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BMI_RangeError (0.0)
+372,No Errors
+373,No Errors
+374,No Errors
+375,No Errors
+376,No Errors
+377,No Errors
+378,SkinThickness_Missing (0); Insulin_Missing (0)
+379,No Errors
+380,No Errors
+381,Insulin_Missing (0)
+382,No Errors
+383,No Errors
+384,No Errors
+385,No Errors
+386,Insulin_Missing (0)
+387,Insulin_Missing (0)
+388,No Errors
+389,No Errors
+390,No Errors
+391,SkinThickness_Missing (0); Insulin_Missing (0)
+392,No Errors
+393,No Errors
+394,SkinThickness_Missing (0); Insulin_Missing (0)
+395,No Errors
+396,No Errors
+397,Insulin_Missing (0)
+398,SkinThickness_Missing (0); Insulin_Missing (0)
+399,Insulin_Missing (0)
+400,SkinThickness_Missing (0); Insulin_Missing (0)
+401,SkinThickness_Missing (0); Insulin_Missing (0)
+402,No Errors
+403,Insulin_Missing (0)
+404,SkinThickness_Missing (0); Insulin_Missing (0)
+405,BloodPressure_RangeError (48)
+406,SkinThickness_Missing (0); Insulin_Missing (0)
+407,SkinThickness_Missing (0); Insulin_Missing (0)
+408,SkinThickness_Missing (0); Insulin_Missing (0)
+409,No Errors
+410,Insulin_Missing (0)
+411,No Errors
+412,No Errors
+413,No Errors
+414,No Errors
+415,No Errors
+416,Insulin_Missing (0)
+417,Insulin_Missing (0)
+418,SkinThickness_Missing (0); Insulin_Missing (0)
+419,No Errors
+420,No Errors
+421,No Errors
+422,No Errors
+423,Insulin_Missing (0)
+424,No Errors
+425,No Errors
+426,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+427,No Errors
+428,No Errors
+429,No Errors
+430,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+431,No Errors
+432,No Errors
+433,SkinThickness_Missing (0); Insulin_Missing (0)
+434,Insulin_Missing (0)
+435,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+436,Insulin_Missing (0)
+437,SkinThickness_Missing (0); Insulin_Missing (0)
+438,Insulin_Missing (0)
+439,SkinThickness_Missing (0); Insulin_Missing (0)
+440,Insulin_Missing (0)
+441,No Errors
+442,No Errors
+443,SkinThickness_Missing (0); Insulin_Missing (0)
+444,Insulin_Missing (0)
+445,BMI_Outlier (59.4); Row_AnomalyIF (N/A)
+446,No Errors
+447,No Errors
+448,No Errors
+449,No Errors
+450,No Errors
+451,SkinThickness_Missing (0); Insulin_Missing (0)
+452,No Errors
+453,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Age_Outlier (72); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+454,No Errors
+455,Insulin_Missing (0)
+456,SkinThickness_Missing (0); Insulin_Missing (0)
+457,No Errors
+458,No Errors
+459,Age_Outlier (81)
+460,No Errors
+461,SkinThickness_Missing (0); Insulin_Missing (0)
+462,No Errors
+463,Insulin_Missing (0)
+464,SkinThickness_Missing (0); Insulin_Missing (0)
+465,No Errors
+466,No Errors
+467,No Errors
+468,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+469,No Errors
+470,Insulin_Missing (0)
+471,Insulin_Missing (0)
+472,Insulin_Missing (0)
+473,SkinThickness_Missing (0); Insulin_Missing (0)
+474,SkinThickness_Missing (0); Insulin_Missing (0)
+475,Insulin_Missing (0)
+476,No Errors
+477,No Errors
+478,No Errors
+479,Insulin_Missing (0)
+480,No Errors
+481,Insulin_Missing (0)
+482,No Errors
+483,No Errors
+484,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+485,No Errors
+486,No Errors
+487,No Errors
+488,Insulin_Missing (0)
+489,SkinThickness_Missing (0); Insulin_Missing (0); Age_Outlier (67); Row_AnomalyIF (N/A)
+490,No Errors
+491,Insulin_Missing (0)
+492,Insulin_Missing (0)
+493,No Errors
+494,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+495,SkinThickness_Missing (0); Insulin_Missing (0)
+496,SkinThickness_Missing (0); Insulin_Missing (0)
+497,No Errors
+498,No Errors
+499,No Errors
+500,No Errors
+501,Insulin_Missing (0)
+502,Glucose_Missing (0); Insulin_Missing (0); Glucose_Outlier (0); Row_AnomalyIF (N/A); Glucose_RangeError (0)
+503,No Errors
+504,Insulin_Missing (0)
+505,SkinThickness_Missing (0); Insulin_Missing (0)
+506,No Errors
+507,No Errors
+508,No Errors
+509,SkinThickness_Missing (0); Insulin_Missing (0)
+510,Insulin_Missing (0)
+511,No Errors
+512,SkinThickness_Missing (0); Insulin_Missing (0)
+513,SkinThickness_Missing (0); Insulin_Missing (0)
+514,No Errors
+515,No Errors
+516,No Errors
+517,SkinThickness_Missing (0); Insulin_Missing (0)
+518,SkinThickness_Missing (0); Insulin_Missing (0)
+519,No Errors
+520,Glucose_RangeError (68)
+521,No Errors
+522,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+523,SkinThickness_Missing (0); Insulin_Missing (0)
+524,SkinThickness_Missing (0); Insulin_Missing (0)
+525,Insulin_Missing (0)
+526,No Errors
+527,No Errors
+528,No Errors
+529,SkinThickness_Missing (0); Insulin_Missing (0)
+530,No Errors
+531,SkinThickness_Missing (0); Insulin_Missing (0)
+532,No Errors
+533,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+534,No Errors
+535,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+536,SkinThickness_Missing (0); Insulin_Missing (0)
+537,SkinThickness_Missing (0); Insulin_Missing (0); Age_Outlier (67); Row_AnomalyIF (N/A); Glucose_RangeError (57)
+538,No Errors
+539,No Errors
+540,No Errors
+541,No Errors
+542,Insulin_Missing (0)
+543,No Errors
+544,No Errors
+545,No Errors
+546,No Errors
+547,No Errors
+548,No Errors
+549,Insulin_Missing (0); BloodPressure_Outlier (110); Row_AnomalyIF (N/A)
+550,Insulin_Missing (0)
+551,No Errors
+552,SkinThickness_Missing (0); Insulin_Missing (0)
+553,No Errors
+554,No Errors
+555,No Errors
+556,Insulin_Missing (0)
+557,SkinThickness_Missing (0); Insulin_Missing (0)
+558,Insulin_Missing (0)
+559,SkinThickness_Missing (0); Insulin_Missing (0)
+560,SkinThickness_Missing (0); Insulin_Missing (0)
+561,No Errors
+562,No Errors
+563,No Errors
+564,SkinThickness_Missing (0); Insulin_Missing (0)
+565,No Errors
+566,No Errors
+567,No Errors
+568,No Errors
+569,No Errors
+570,SkinThickness_Missing (0); Insulin_Missing (0)
+571,SkinThickness_Missing (0); Insulin_Missing (0)
+572,No Errors
+573,No Errors
+574,No Errors
+575,BloodPressure_RangeError (44)
+576,BloodPressure_RangeError (44)
+577,SkinThickness_Missing (0); Insulin_Missing (0)
+578,SkinThickness_Missing (0); Insulin_Missing (0)
+579,Insulin_Missing (0); Row_AnomalyIF (N/A)
+580,Insulin_Missing (0)
+581,Insulin_Missing (0)
+582,Insulin_Missing (0)
+583,SkinThickness_Missing (0); Insulin_Missing (0)
+584,No Errors
+585,Insulin_Missing (0)
+586,SkinThickness_Missing (0); Insulin_Missing (0)
+587,SkinThickness_Missing (0); Insulin_Missing (0)
+588,No Errors
+589,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+590,Insulin_Missing (0)
+591,No Errors
+592,SkinThickness_Missing (0); Insulin_Missing (0)
+593,No Errors
+594,No Errors
+595,No Errors
+596,SkinThickness_Missing (0); Insulin_Missing (0); Glucose_RangeError (67)
+597,BloodPressure_Outlier (24); BloodPressure_RangeError (24)
+598,SkinThickness_Missing (0); Insulin_Missing (0)
+599,BloodPressure_RangeError (38)
+600,Insulin_Missing (0)
+601,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+602,Insulin_Missing (0)
+603,No Errors
+604,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0)
+605,Insulin_Missing (0)
+606,No Errors
+607,No Errors
+608,No Errors
+609,No Errors
+610,No Errors
+611,No Errors
+612,No Errors
+613,Insulin_Missing (0)
+614,No Errors
+615,SkinThickness_Missing (0); Insulin_Missing (0)
+616,SkinThickness_Missing (0); Insulin_Missing (0)
+617,Glucose_RangeError (68)
+618,Insulin_Missing (0)
+619,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+620,No Errors
+621,Insulin_Missing (0)
+622,SkinThickness_Missing (0); Insulin_Missing (0)
+623,No Errors
+624,SkinThickness_Missing (0); Insulin_Missing (0)
+625,No Errors
+626,SkinThickness_Missing (0); Insulin_Missing (0)
+627,SkinThickness_Missing (0); Insulin_Missing (0)
+628,SkinThickness_Missing (0); Insulin_Missing (0)
+629,Insulin_Missing (0)
+630,SkinThickness_Missing (0); Insulin_Missing (0)
+631,No Errors
+632,SkinThickness_Missing (0); Insulin_Missing (0)
+633,No Errors
+634,SkinThickness_Missing (0); Insulin_Missing (0)
+635,SkinThickness_Missing (0); Insulin_Missing (0)
+636,SkinThickness_Missing (0); Insulin_Missing (0)
+637,No Errors
+638,No Errors
+639,No Errors
+640,No Errors
+641,SkinThickness_Missing (0); Insulin_Missing (0)
+642,SkinThickness_Missing (0); Insulin_Missing (0)
+643,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+644,No Errors
+645,No Errors
+646,No Errors
+647,No Errors
+648,No Errors
+649,Insulin_Missing (0)
+650,No Errors
+651,No Errors
+652,No Errors
+653,SkinThickness_Missing (0); Insulin_Missing (0)
+654,No Errors
+655,No Errors
+656,No Errors
+657,No Errors
+658,SkinThickness_Missing (0); Insulin_Missing (0)
+659,No Errors
+660,SkinThickness_Missing (0); Insulin_Missing (0)
+661,Insulin_Missing (0)
+662,No Errors
+663,No Errors
+664,Insulin_Missing (0)
+665,No Errors
+666,Insulin_Missing (0); Age_Outlier (70)
+667,Insulin_Missing (0)
+668,No Errors
+669,No Errors
+670,No Errors
+671,Insulin_Missing (0)
+672,Glucose_RangeError (68)
+673,BMI_Outlier (57.3); Row_AnomalyIF (N/A)
+674,SkinThickness_Missing (0); Insulin_Missing (0); Age_Outlier (68)
+675,SkinThickness_Missing (0); Insulin_Missing (0)
+676,SkinThickness_Missing (0); Insulin_Missing (0)
+677,SkinThickness_Missing (0); Insulin_Missing (0)
+678,SkinThickness_Missing (0); Insulin_Missing (0)
+679,No Errors
+680,Glucose_RangeError (56)
+681,Insulin_Missing (0)
+682,No Errors
+683,SkinThickness_Missing (0); Insulin_Missing (0)
+684,SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BMI_Outlier (0.0); Age_Outlier (69); Row_AnomalyIF (N/A); BMI_RangeError (0.0)
+685,No Errors
+686,SkinThickness_Missing (0); Insulin_Missing (0)
+687,Insulin_Missing (0)
+688,No Errors
+689,No Errors
+690,SkinThickness_Missing (0); Insulin_Missing (0)
+691,SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (114)
+692,No Errors
+693,No Errors
+694,SkinThickness_Missing (0); Insulin_Missing (0)
+695,No Errors
+696,No Errors
+697,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+698,No Errors
+699,SkinThickness_Missing (0); Insulin_Missing (0)
+700,No Errors
+701,Insulin_Missing (0)
+702,Insulin_Missing (0)
+703,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BloodPressure_Outlier (0); BloodPressure_RangeError (0)
+704,No Errors
+705,Insulin_Missing (0)
+706,BloodPressure_Missing (0); SkinThickness_Missing (0); Insulin_Missing (0); BMI_Missing (0.0); BloodPressure_Outlier (0); BMI_Outlier (0.0); Row_AnomalyIF (N/A); BloodPressure_RangeError (0); BMI_RangeError (0.0)
+707,BloodPressure_RangeError (46)
+708,SkinThickness_Missing (0); Insulin_Missing (0)
+709,No Errors
+710,No Errors
+711,No Errors
+712,Insulin_Missing (0)
+713,No Errors
+714,SkinThickness_Missing (0); Insulin_Missing (0)
+715,No Errors
+716,No Errors
+717,Insulin_Missing (0)
+718,No Errors
+719,Insulin_Missing (0)
+720,Insulin_Missing (0)
+721,No Errors
+722,No Errors
+723,No Errors
+724,SkinThickness_Missing (0); Insulin_Missing (0)
+725,Insulin_Missing (0)
+726,No Errors
+727,Insulin_Missing (0)
+728,SkinThickness_Missing (0); Insulin_Missing (0)
+729,SkinThickness_Missing (0); Insulin_Missing (0)
+730,No Errors
+731,SkinThickness_Missing (0); Insulin_Missing (0)
+732,No Errors
+733,No Errors
+734,SkinThickness_Missing (0); Insulin_Missing (0)
+735,Insulin_Missing (0)
+736,No Errors
+737,Insulin_Missing (0); Glucose_RangeError (65)
+738,No Errors
+739,SkinThickness_Missing (0); Insulin_Missing (0)
+740,No Errors
+741,BloodPressure_RangeError (44)
+742,No Errors
+743,SkinThickness_Missing (0); Insulin_Missing (0)
+744,No Errors
+745,No Errors
+746,Insulin_Missing (0)
+747,No Errors
+748,No Errors
+749,SkinThickness_Missing (0); Insulin_Missing (0)
+750,SkinThickness_Missing (0); Insulin_Missing (0)
+751,No Errors
+752,Insulin_Missing (0)
+753,No Errors
+754,Insulin_Missing (0)
+755,No Errors
+756,Insulin_Missing (0)
+757,SkinThickness_Missing (0); Insulin_Missing (0)
+758,SkinThickness_Missing (0); Insulin_Missing (0)
+759,SkinThickness_Missing (0); Insulin_Missing (0); Row_AnomalyIF (N/A)
+760,No Errors
+761,Insulin_Missing (0)
+762,SkinThickness_Missing (0); Insulin_Missing (0)
+763,No Errors
+764,Insulin_Missing (0)
+765,No Errors
+766,SkinThickness_Missing (0); Insulin_Missing (0)
+767,Insulin_Missing (0)

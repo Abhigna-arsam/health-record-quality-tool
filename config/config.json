@@ -1,0 +1,41 @@
+{
+    "zero_as_missing_cols": [
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "BMI"
+    ],
+    "clinical_ranges": {
+        "Glucose": [
+            70,
+            200
+        ],
+        "BloodPressure": [
+            50,
+            120
+        ],
+        "BMI": [
+            10,
+            60
+        ],
+        "Age": [
+            10,
+            100
+        ]
+    },
+    "outlier_columns": [
+        "Glucose",
+        "BloodPressure",
+        "BMI",
+        "Age"
+    ],
+    "error_weights": {
+        "Glucose_Missing": 2,
+        "BloodPressure_Missing": 2,
+        "BMI_Outlier": 1,
+        "Age_RangeError": 1,
+        "Row_AnomalyIF": 1
+    },
+    "contamination": 0.05
+}

@@ -1,0 +1,33 @@
+=== Missing Data Summary ===
+,Missing_Count,Missing_%
+Pregnancies,0,0.0
+Glucose,0,0.0
+BloodPressure,0,0.0
+SkinThickness,0,0.0
+Insulin,0,0.0
+BMI,0,0.0
+DiabetesPedigreeFunction,0,0.0
+Age,0,0.0
+Outcome,0,0.0
+Glucose_Zeros_as_Missing,5,0.6510416666666666
+BloodPressure_Zeros_as_Missing,35,4.557291666666667
+SkinThickness_Zeros_as_Missing,227,29.557291666666668
+Insulin_Zeros_as_Missing,374,48.697916666666664
+BMI_Zeros_as_Missing,11,1.4322916666666667
+
+=== Statistical Summary ===
+,mean,median,min,max
+Pregnancies,3.8450520833333335,3.0,0.0,17.0
+Glucose,120.89453125,117.0,0.0,199.0
+BloodPressure,69.10546875,72.0,0.0,122.0
+SkinThickness,20.536458333333332,23.0,0.0,99.0
+Insulin,79.79947916666667,30.5,0.0,846.0
+BMI,31.992578124999998,32.0,0.0,67.1
+Age,33.240885416666664,29.0,21.0,81.0
+
+=== Overall Quality Metrics ===
+Total Records,768
+Average Quality Score (%),93.19
+Records with 0 Errors,366
+Records with >50% Errors,7
+Average Completeness Score (%),90.57
